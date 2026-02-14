@@ -18,12 +18,12 @@ I love making **Markdown cheat sheets**! I find that breaking down difficult con
 
 ### 🛠️ What I'm working on
 - [ ] Transitioning my local Git projects to GitHub.
-- [ ] Creating a "Master Python Cheat Sheet" in Markdown.
+- [ ] Creating "Cheat Sheets" in Markdown to help other beginners.
 - [ ] Automating my Ubuntu desktop workflows with Python.
 
 ### 🎯 Current Goals
-- [ ] Build a script that helps with file organisation on my Linux machine.
-- [ ] Master the Ubuntu terminal (CLI).
+- [ ] Build using Python on my Ubuntu machine.
+- [ ] Master the Ubuntu terminal.
 
 ---
 *“Learning is the only thing the mind never exhausts, never fears, and never regrets.”*
