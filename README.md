@@ -22,8 +22,8 @@ I love making **Markdown cheat sheets**! I find that breaking down difficult con
 - [ ] Automating my Ubuntu desktop workflows with Python.
 
 ### 🎯 Current Goals
-- [ ] Build using Python on my Ubuntu machine.
-- [ ] Master the Ubuntu terminal.
+- [x] 🟢 Build using Python on my Ubuntu machine.
+- [x] 🟢 Master the Ubuntu terminal.
 
 ---
 *“Learning is the only thing the mind never exhausts, never fears, and never regrets.”*
