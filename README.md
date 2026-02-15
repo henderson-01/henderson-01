@@ -1,7 +1,7 @@
 # Hi there, I'm Mr Henderson! 👋
 
 ### 🚀 Student Developer | Focused on Python & Automation
-I am a self-directed learner building tools to make life easier and documenting the journey as I go.
+I am a self-directed learner, building projects and documenting my learning journey as I go.
 
 ---
 
@@ -19,11 +19,13 @@ I love making **Markdown cheat sheets**! I find that breaking down difficult con
 ### 🛠️ What I'm working on
 - [ ] Transitioning my local Git projects to GitHub.
 - [ ] Creating "Cheat Sheets" in Markdown to help other beginners.
-- [ ] Automating my Ubuntu desktop workflows with Python.
-
+- [x] Automating my Ubuntu desktop workflows.
+- [ ] Learning Python in VS-Code & Coddy
+      
 ### 🎯 Current Goals
 - [x] Build using Python on my Ubuntu machine.
-- [x] Master the Ubuntu terminal.
+- [x] Master the Ubuntu terminal. Always-learning!
+- [x] Keep reading my book, Python Crash Course by Eric Matthes.
 
 ---
 *“Learning is the only thing the mind never exhausts, never fears, and never regrets.”*
