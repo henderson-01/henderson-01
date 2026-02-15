@@ -12,7 +12,7 @@ I am a self-directed learner, building projects and documenting my learning jour
 
 ### 📝 Documentation & Cheat Sheets
 I love making **Markdown cheat sheets**! I find that breaking down difficult concepts into simple, scannable help guides is the best way to learn. 
-*Expect to see various "cheat sheet" repositories here as I find new ways to simplify coding.*
+*Expect to see various "cheat sheet" repositories here as I find new ways to simplify coding and applications.*
 
 ---
 
