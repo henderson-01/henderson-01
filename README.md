@@ -11,16 +11,16 @@ I am a self-directed learner, building projects and documenting my learning jour
 - ⚙️ **Git:** Learning version control locally and syncing my progress here.
 
 ### 📝 Documentation & Cheat Sheets
-I love making **Markdown cheat sheets**! I find that breaking down difficult concepts into simple, scannable help guides is the best way to learn. 
+I love making **Markdown cheat sheets & Help Guides**! I find that breaking down difficult concepts into simple, scannable help guides is the best way to learn. 
 *Expect to see various "cheat sheet" repositories here as I find new ways to simplify coding and applications.*
 
 ---
 
 ### 🛠️ What I'm working on
-- [ ] Transitioning my local Git projects to GitHub.
-- [ ] Creating "Cheat Sheets" in Markdown to help other beginners.
-- [x] Automating my Ubuntu desktop workflows.
-- [ ] Learning Python in VS-Code & Coddy
+- [x] Transitioning some of my local Git projects to GitHub.
+- [x] Creating "Cheat Sheets & Help Guides" in Markdown to help other beginners.
+- [x] Automating my Ubuntu LTS desktop workflows.
+- [x] Learning Python in VS-Code & Coddy.
       
 ### 🎯 Current Goals
 - [x] Build using Python on my Ubuntu machine.
