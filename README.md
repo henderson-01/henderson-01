@@ -6,7 +6,7 @@ I am a self-directed learner, building projects and documenting my learning jour
 ---
 
 ### 💻 My Setup & Background
-- 🐧 **OS:** Recently transitioned from **Windows** to **Ubuntu Desktop** (loving the Linux workflow!).
+- 🐧 **OS:** Recently transitioned from **Windows** to **Ubuntu pro lts Desktop** (loving the Linux workflow!).
 - 🐍 **Language:** Currently mastering **Python** and computer programming fundamentals.
 - ⚙️ **Git:** Learning version control locally and syncing my progress here.
 
