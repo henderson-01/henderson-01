@@ -21,7 +21,7 @@ I love making **Markdown cheat sheets & Help Guides**! I find that breaking down
 - [x] Creating "Cheat Sheets & Help Guides" in Markdown to help other beginners.
 - [x] Automating my Ubuntu LTS desktop workflows.
 - [x] Learning Python in VS-Code & Coddy.
-- [ ] Ubuntu UK Keyboard Inverter – Tired of holding Shift for symbols? I’m building a keyd-based script for Ubuntu that swaps the UK ISO layout's primary and secondary functions at the input level for a symbol-first workflow.
+- [x] Ubuntu UK Keyboard Inverter – Tired of holding Shift for symbols? I’m building a keyd-based script for Ubuntu that swaps the UK ISO layout's primary and secondary functions at the input level for a symbol-first workflow.
       
 ### 🎯 Current Goals
 - [x] Build using Python on my Ubuntu machine.
