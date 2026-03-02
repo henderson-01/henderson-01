@@ -17,16 +17,16 @@ I love making **Markdown cheat sheets & Help Guides**! I find that breaking down
 ---
 
 ### 🛠️ What I'm working on
-- [x] Transitioning some of my local Git projects to GitHub.
-- [x] Creating "Cheat Sheets & Help Guides" in Markdown to help other beginners.
-- [x] Automating my Ubuntu LTS desktop workflows.
-- [x] Learning Python in VS-Code & Coddy.
-- [x] Ubuntu UK Keyboard Inverter – Tired of holding Shift for symbols? I’m building a keyd-based script for Ubuntu that swaps the UK ISO layout's primary and secondary functions at the input level for a symbol-first workflow.
+- Transitioning some of my local Git projects to GitHub.
+- Creating "Cheat Sheets & Help Guides" in Markdown to help other beginners.
+- Automating my Ubuntu LTS desktop workflows.
+- Learning Python in VS-Code & Coddy.
+- Ubuntu UK Keyboard Inverter – Tired of holding Shift for symbols? I’m building a keyd-based script for Ubuntu that swaps the UK ISO layout's primary and secondary functions at the input level for a symbol-first workflow.
       
 ### 🎯 Current Goals
-- [x] Build using Python on my Ubuntu machine.
-- [x] Master the Ubuntu terminal. Always-learning!
-- [x] Keep reading my book, Python Crash Course by Eric Matthes.
+- Build using Python on my Ubuntu machine.
+- Master the Ubuntu terminal. Always-learning!
+- Keep reading my book, Python Crash Course by Eric Matthes.
 
 ---
 *“Learning is the only thing the mind never exhausts, never fears, and never regrets.”*
