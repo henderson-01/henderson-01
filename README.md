@@ -10,7 +10,7 @@ I am a self-directed learner, building projects and documenting my learning jour
 
 ### 💻 My Setup & Background
 
-* **OS:** Recently transitioned from **Windows** to **Ubuntu Pro LTS Desktop** (loving the Linux workflow!).
+* **OS:** Transitioned from **Windows** to **Ubuntu Pro LTS Desktop** (loving the Linux workflow!).
 * **Language:** Currently mastering **Python** and computer programming fundamentals.
 * **Git:** Learning version control locally and syncing my progress here.
 
@@ -34,16 +34,16 @@ I love making **Markdown cheat sheets!** I find that breaking down difficult con
 
 ### 🛠️ What I'm working on
 
-* **Transitioning** my local Git projects to GitHub.
+* **Transitioning** Local Git projects to GitHub.
 * **Creating** "Cheat Sheets & Help Guides" in Markdown to help other beginners.
-* **Automating** my Ubuntu LTS desktop workflows.
+* **Automating** Ubuntu LTS desktop workflows.
 * **Learning** Python in VS-Code & Coddy.
-* **Learning** Bash locally on my desktop.
+* **Learning** Bash Scripting locally.
 
 ### 🎯 Current Goals
 
 * Build using Python on my Ubuntu machine.
-* Master the Ubuntu terminal and Bash. Always-learning!
+* Master the Ubuntu terminal Bash. Always-learning!
 * Keep reading my book, *Python Crash Course* by Eric Matthes.
 
 > “Learning is the only thing the mind never exhausts, never fears, and never regrets.”
