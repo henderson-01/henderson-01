@@ -45,5 +45,8 @@ I love making **Markdown cheat sheets!** I find that breaking down difficult con
 * Build using Python on my Ubuntu machine.
 * Master the Ubuntu terminal Bash. Always-learning!
 * Keep reading my book, *Python Crash Course* by Eric Matthes.
+  
+---
 
-> “Learning is the only thing the mind never exhausts, never fears, and never regrets.”
+>[!TIP]
+> Beware of 'Free' APIs; Sometimes, the greatest cost of a zero-dollar tool is the security of your own secrets.
