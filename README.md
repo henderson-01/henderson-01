@@ -18,7 +18,7 @@ I am a self-directed learner, building projects and documenting my learning jour
 
 ### 🧠 My Learning Philosophy & AI
 
-I’m a firm believer in using modern tools to solve timeless problems. As I navigate the early stages of my Python and Bash journey, I don't shy away from using **Artificial Intelligence** to deconstruct complex logic or debug tricky errors. It’s like having a digital mentor available 24/7. 
+I’m a firm believer in using modern tools to solve timeless problems. As I navigate the stages of my Python and Bash journey, I don't shy away from using **Artificial Intelligence** to deconstruct complex logic or debug tricky errors. It’s like having a digital mentor available 24/7. 
 
 I find the most value in **"Micro-Tools"**, small functional scripts that serve a clear, immediate purpose. I’m focused on writing code that is readable, purposeful, and practical.
 
@@ -31,20 +31,6 @@ I find the most value in **"Micro-Tools"**, small functional scripts that serve 
 ### 📝 Documentation & Help Guides
 
 I love making **Markdown cheat sheets!** I find that breaking down difficult concepts into simple, scannable guides is the best way to learn. Expect to see various "cheat sheet" repositories here as I find new ways to simplify coding and applications.
-
-### 🛠️ What I'm working on
-
-* **Transitioning** Local Git projects to GitHub.
-* **Creating** "Cheat Sheets & Help Guides" in Markdown to help other beginners.
-* **Automating** Ubuntu LTS desktop workflows.
-* **Learning** Python in VS-Code & Coddy.
-* **Learning** Bash Scripting locally.
-
-### 🎯 Current Goals
-
-* Build using Python on my Ubuntu machine.
-* Master the Ubuntu terminal Bash. Always-learning!
-* Keep reading my book, *Python Crash Course* by Eric Matthes.
   
 ---
 
