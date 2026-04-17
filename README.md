@@ -20,7 +20,7 @@ I am a self-directed learner, building projects and documenting my learning jour
 
 I’m a firm believer in using modern tools to solve timeless problems. As I navigate the stages of my Python and Bash journey, I don't shy away from using **Artificial Intelligence** to deconstruct complex logic or debug tricky errors. It’s like having a digital mentor available 24/7. 
 
-I find the most value in **"Micro-Tools"**, small functional scripts that serve a clear, immediate purpose. I’m focused on writing code that is readable, purposeful, and practical.
+I find the most value in **functional scripts** that serve a clear, immediate purpose. I’m focused on writing code that is readable, purposeful, and practical.
 
 ---
 
