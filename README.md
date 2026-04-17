@@ -2,9 +2,7 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-🚀 **Student Developer**
-
-I am a self-directed learner, building projects and documenting my learning journey as I go.
+🚀 **Student Developer** & self-directed learner, building projects and documenting my learning journey as I go.
 
 ---
 
