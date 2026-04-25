@@ -10,7 +10,7 @@
 
 * **OS:** **MacBook Pro** and transitioned from **Windows** to **Ubuntu Pro LTS Desktop** (loving the Linux workflow!).
 * **Language:** Currently mastering **Python** and computer programming fundamentals.
-* **Git:** Learning version control locally and syncing my progress here.
+* **Git:** Mastering version control locally and syncing my progress here.
 
 ---
 
