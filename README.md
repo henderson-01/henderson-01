@@ -24,7 +24,7 @@ I find the most value in **functional scripts** that serve a clear, immediate pu
 
 ## 📝 Documentation & Help Guides
 
-I enjoy making **Markdown Documents!** I find that breaking down difficult concepts into simple, scannable guides is the best way to learn. Expect to see various **cheat sheets** & **Help guides** repositories here as I find new ways to simplify coding and application tasks.
+I enjoy making **Markdown Documents!** I find that breaking down difficult concepts into simple, scannable guides is the best way to learn. Expect to see various **Cheat sheets** & **Help guides** repositories here as I find new ways to simplify coding and application tasks.
   
 ---
 
