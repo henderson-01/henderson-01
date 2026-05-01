@@ -8,7 +8,7 @@
 
 ## 💻 My Setup & Background
 
-* **OS:** **MacBook Pro** and transitioned from **Windows** to **Ubuntu Pro LTS Desktop** (loving the Linux workflow!).
+* **OS:** **MacBook Pro** and transitioned from **Windows** to **Ubuntu Pro LTS** (loving the Linux workflow!).
 * **Language:** Currently mastering **Python** and computer programming fundamentals.
 * **Git:** Mastering version control locally and syncing my progress here.
 
