@@ -29,4 +29,4 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 ---
 
 >[!TIP]
-> Beware of 'Free' APIs; Sometimes, the greatest cost of a zero-dollar tool is the security of your own secrets.
+> Beware of **Free APIs** Sometimes, the greatest cost of a zero-dollar tool is the security of your own secrets.
