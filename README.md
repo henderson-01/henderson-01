@@ -6,10 +6,10 @@
 
 ## 💻 My Setup & Background
 
-* **OS:** **MacBook Pro** and transitioned from **Windows** to **Ubuntu Pro LTS** (loving the Linux workflow!).
-* **Language:** Currently mastering **Python** and computer programming fundamentals.
-* **Scripting:** Getting comfortable with Bash scripting to automate tasks and level up my command-line skills.
-* **Git:** Mastering version control locally and syncing my progress here.
+* **OS:** **`Mac`** and transitioned from **`Windows`** to **`Ubuntu`** (loving the Linux workflow!).
+* **Language:** Currently mastering **`Python`** and computer programming fundamentals.
+* **Scripting:** Getting comfortable with **`Bash`** scripting to automate tasks and level up my command-line skills.
+* **Git:** Mastering **`version control`** locally and syncing my progress here.
 
 ---
 
