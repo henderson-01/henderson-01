@@ -29,3 +29,8 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 > [!TIP]
 > Beware of **Free APIs** Sometimes, the greatest cost of a zero-dollar tool is the security of your own secrets.
+
+---
+
+[![GitHub Community Discussions](https://img.shields.io/badge/GitHub-Community_Discussions-181717?logo=shieldsdotio&logoColor=white&style=for-the-badge)](https://github.com/orgs/community/discussions)<br>
+*Join the conversation, ask questions, and share ideas with the global GitHub community.*
