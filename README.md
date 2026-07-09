@@ -1,3 +1,5 @@
+# 🪐 Welcome to my GitHub profile
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?style=for-the-badge&logo=lmstudio&logoColor=white)
 
 🚀 **Student Developer**: Self-directed learner, building projects and documenting my learning journey as I go.
