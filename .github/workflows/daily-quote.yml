@@ -60,8 +60,8 @@ jobs:
               text = f.read()
           
           # Define our hidden HTML markers
-          start_marker = ''
-          end_marker = ''
+          start_marker = '<!-' + '- QUOTE:START -' + '->'
+          end_marker = '<!-' + '- QUOTE:END -' + '->'
           
           # Swap the quote out safely
           if start_marker in text and end_marker in text:
