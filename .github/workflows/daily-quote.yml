@@ -19,38 +19,38 @@ jobs:
           cat << 'EOF' > update_quote.py
           import random
           
-          # Our massive list of tech quotes
+          # Our massive list of tech quotes (now without the literal " marks!)
           quotes = [
               # Python & Bash
-              '"Simple is better than complex." – The Zen of Python',
-              '"In Bash, everything is a string until it breaks your production environment." – Anonymous',
-              '"Go ahead, run rm -rf /. See if I care." – Your Angry Bash Terminal',
-              '"Talk is cheap. Show me the code." – Linus Torvalds',
+              "Simple is better than complex. – The Zen of Python",
+              "In Bash, everything is a string until it breaks your production environment. – Anonymous",
+              "Go ahead, run rm -rf /. See if I care. – Your Angry Bash Terminal",
+              "Talk is cheap. Show me the code. – Linus Torvalds",
               
               # uv & uvx
-              '"Resolving dependencies... done in 0.013s." – The magic of uv',
-              '"uvx: Because installing global tools is so 2023."',
-              '"pip install? In this economy? Use uv." – Modern Python Devs',
+              "Resolving dependencies... done in 0.013s. – The magic of uv",
+              "uvx: Because installing global tools is so 2023.",
+              "pip install? In this economy? Use uv. – Modern Python Devs",
               
               # Docker
-              '"But it works on my machine!" – The official Docker origin story',
-              '"Docker: Because friends don\'t let friends suffer dependency hell."',
-              '"I accidentally rm -f my containers and now I don\'t exist." – Anonymous',
+              "But it works on my machine! – The official Docker origin story",
+              "Docker: Because friends don't let friends suffer dependency hell.",
+              "I accidentally rm -f my containers and now I don't exist. – Anonymous",
               
               # VirtualBox
-              '"VirtualBox: Allocating 8GB of RAM to a VM and watching your host OS cry."',
-              '"Guru Meditation. Press OK to reboot your existential crisis." – VirtualBox errors',
-              '"Yes, I need Windows... but only in a little box where it can\'t hurt me."',
+              "VirtualBox: Allocating 8GB of RAM to a VM and watching your host OS cry.",
+              "Guru Meditation. Press OK to reboot your existential crisis. – VirtualBox errors",
+              "Yes, I need Windows... but only in a little box where it can't hurt me.",
               
               # Ubuntu Linux
-              '"sudo apt update && sudo apt upgrade -y – A daily morning ritual."',
-              '"snap install... wait, no, let me find the PPA." – Ubuntu Admins',
-              '"Year of the Linux desktop! (Said every year since 1998)"',
+              "sudo apt update && sudo apt upgrade -y – A daily morning ritual.",
+              "snap install... wait, no, let me find the PPA. – Ubuntu Admins",
+              "Year of the Linux desktop! (Said every year since 1998)",
               
               # macOS
-              '"brew install patience – Compiling from source on macOS."',
-              '"It just works. Until you need to update Xcode Command Line Tools." – Mac Devs',
-              '"Dongles. Dongles everywhere." – The Apple Ecosystem'
+              "brew install patience – Compiling from source on macOS.",
+              "It just works. Until you need to update Xcode Command Line Tools. – Mac Devs",
+              "Dongles. Dongles everywhere. – The Apple Ecosystem"
           ]
           
           picked = random.choice(quotes)
@@ -59,7 +59,7 @@ jobs:
           with open('README.md', 'r', encoding='utf-8') as f:
               text = f.read()
           
-          # Define our hidden HTML markers
+          # Define our hidden HTML markers safely
           start_marker = '<!-' + '- QUOTE:START -' + '->'
           end_marker = '<!-' + '- QUOTE:END -' + '->'
           
@@ -69,7 +69,8 @@ jobs:
               after = text.split(end_marker)[1]
               
               # Construct the new file content
-              updated_text = f"{before}{start_marker}\n\n> {picked}\n\n{end_marker}{after}"
+              # Note: We removed the '>' here so it prints as standard white text, but added '*' to make it italicized so it still looks nice!
+              updated_text = f"{before}{start_marker}\n\n*{picked}*\n\n{end_marker}{after}"
               
               with open('README.md', 'w', encoding='utf-8') as f:
                   f.write(updated_text)
