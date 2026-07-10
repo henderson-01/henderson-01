@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-*In Bash, everything is a string until it breaks your production environment. – Anonymous*
+*IndentationError: expected an indented block. – The soundtrack of my life.*
 
 <!-- QUOTE:END -->
 
