@@ -19,38 +19,96 @@ jobs:
           cat << 'EOF' > update_quote.py
           import random
           
-          # Our massive list of tech quotes (now without the literal " marks!)
+          # The Ultimate 69-Quote Tech Library (Mr. Bot Edition)
           quotes = [
-              # Python & Bash
+              # Python
               "Simple is better than complex. – The Zen of Python",
-              "In Bash, everything is a string until it breaks your production environment. – Anonymous",
-              "Go ahead, run rm -rf /. See if I care. – Your Angry Bash Terminal",
               "Talk is cheap. Show me the code. – Linus Torvalds",
+              "IndentationError: expected an indented block. – The soundtrack of my life.",
+              "List comprehensions are magic until you have to read someone else's. – Mr. Bot",
+              "If it looks like a duck and quacks like a duck, it's probably a Python object. – Mr. Bot",
+              "import antigravity – Python Standard Library",
+              "from __future__ import sanity – Mr. Bot",
+              "Global Interpreter Lock: The feature everyone loves to hate.",
+              "Python is executable pseudocode. Perl is executable line noise.",
+              "Beautiful is better than ugly. – The Zen of Python",
+              "Readability counts. – The Zen of Python",
+              "Errors should never pass silently. Unless explicitly silenced. – The Zen of Python",
+              "If the implementation is hard to explain, it is a bad idea. – The Zen of Python",
               
               # uv & uvx
               "Resolving dependencies... done in 0.013s. – The magic of uv",
-              "uvx: Because installing global tools is so 2023.",
-              "pip install? In this economy? Use uv. – Modern Python Devs",
+              "uvx: Because installing global tools is so 2023. – Mr. Bot",
+              "pip install? In this economy? Use uv. – Mr. Bot",
+              
+              # Bash & CLI
+              "In Bash, everything is a string until it breaks your production environment. – Mr. Bot",
+              "Go ahead, run rm -rf /. See if I care. – Mr. Bot",
+              "Why write a Python script when you can pipe 12 commands together in Bash? – Mr. Bot",
+              "A true Bash master never uses the mouse.",
+              "grep it 'til you make it. – Mr. Bot",
+              "I wrote a cron job to remind me how to write cron jobs. – Mr. Bot",
+              "Regex: Because you had a problem, and now you have two.",
+              "echo $PATH ... Wait, where am I? – Mr. Bot",
+              "Piping into /dev/null: The ultimate problem solver.",
+              "A bash script is a temporary solution that becomes permanent infrastructure.",
               
               # Docker
               "But it works on my machine! – The official Docker origin story",
-              "Docker: Because friends don't let friends suffer dependency hell.",
-              "I accidentally rm -f my containers and now I don't exist. – Anonymous",
+              "Docker: Because friends don't let friends suffer dependency hell. – Mr. Bot",
+              "I accidentally rm -f my containers and now I don't exist. – Mr. Bot",
+              "Containers are just chroot with a marketing budget. – Kelsey Hightower",
+              "I'm not saying it was Docker, but it was Docker. – Mr. Bot",
+              "Dockerizing a bad application just makes it a bad application in a box.",
+              "Why solve the dependency problem when you can just ship the whole OS?",
+              "My code is compiling, but my containers are restarting. – Mr. Bot",
+              "docker compose up -d and pray. – Mr. Bot",
+              "We need to go deeper. Run Docker inside Docker.",
+              
+              # Ubuntu & Linux
+              "sudo apt update && sudo apt upgrade -y – A daily morning ritual.",
+              "snap install... wait, no, let me find the PPA. – Mr. Bot",
+              "Year of the Linux desktop! (Said every year since 1998)",
+              "Linux: Where 'user-friendly' means 'picky about who its friends are.'",
+              "I use Arch, by the way. (But we are running Ubuntu today) – Mr. Bot",
+              "chmod 777: The universal solution to all permission problems, and the start of all security breaches.",
+              "I am root. Therefore, I am. – Mr. Bot",
+              "Linux is only free if your time has no value. – Jamie Zawinski",
+              "Everything is a file. Except when it isn't.",
+              "Have you tried turning it off and on again? Oh wait, this is Linux. Just restart the daemon. – Mr. Bot",
+              "Exit Vim? Why would I want to do that?",
+              "sudo !! – The magic word for 'Do what I just told you to do.'",
+              "The best thing about Linux is that it doesn't try to hide the complexity. The worst thing is also that.",
+              "A kernel panic is just the computer's way of saying 'I need a vacation.' – Mr. Bot",
+              "In Linux, there are no limits. Only configuration files you haven't found yet.",
+              "apt-get install coffee – Mr. Bot",
+              "Why use a GUI when you can type 40 characters in the terminal?",
+              "It's not a bug, it's an undocumented feature. – Mr. Bot",
+              "There is no place like 127.0.0.1 (except maybe localhost).",
+              
+              # macOS
+              "brew install patience – Compiling from source on macOS.",
+              "It just works. Until you need to update Xcode Command Line Tools. – Mr. Bot",
+              "Dongles. Dongles everywhere. – The Apple Ecosystem",
+              "Have you tried resetting the NVRAM? – Mr. Bot",
+              "I bought a Mac so I wouldn't have to deal with Linux, and now I use Homebrew all day.",
+              "Activity Monitor: Watching WindowServer consume 99% of your CPU since 2001.",
+              "Command + Space is the only way to navigate. – Mr. Bot",
+              "Target Disk Mode saved my life.",
+              "Safari is just a Chrome downloader. – Mr. Bot",
+              "We removed the port because of 'courage'.",
               
               # VirtualBox
               "VirtualBox: Allocating 8GB of RAM to a VM and watching your host OS cry.",
               "Guru Meditation. Press OK to reboot your existential crisis. – VirtualBox errors",
-              "Yes, I need Windows... but only in a little box where it can't hurt me.",
-              
-              # Ubuntu Linux
-              "sudo apt update && sudo apt upgrade -y – A daily morning ritual.",
-              "snap install... wait, no, let me find the PPA. – Ubuntu Admins",
-              "Year of the Linux desktop! (Said every year since 1998)",
-              
-              # macOS
-              "brew install patience – Compiling from source on macOS.",
-              "It just works. Until you need to update Xcode Command Line Tools. – Mac Devs",
-              "Dongles. Dongles everywhere. – The Apple Ecosystem"
+              "Yes, I need Windows... but only in a little box where it can't hurt me. – Mr. Bot",
+              "Snapshots are not backups. But we use them like they are anyway. – Mr. Bot",
+              "Guest Additions installed successfully. *Screen resolution still 800x600*",
+              "Wait, did I give the VM the bridged adapter or NAT? – Mr. Bot",
+              "VirtualBox: Making sure your host machine has exactly 0 bytes of free space.",
+              "It runs seamlessly! *Fans immediately spin up to 5000 RPM* – Mr. Bot",
+              "I'll just spin up a quick VM... *3 hours later* – Mr. Bot",
+              "Host Key is Right Ctrl. Remember the Host Key."
           ]
           
           picked = random.choice(quotes)
@@ -68,8 +126,7 @@ jobs:
               before = text.split(start_marker)[0]
               after = text.split(end_marker)[1]
               
-              # Construct the new file content
-              # Note: We removed the '>' here so it prints as standard white text, but added '*' to make it italicized so it still looks nice!
+              # Construct the new file content with italics
               updated_text = f"{before}{start_marker}\n\n*{picked}*\n\n{end_marker}{after}"
               
               with open('README.md', 'w', encoding='utf-8') as f:
