@@ -127,7 +127,7 @@ jobs:
               after = text.split(end_marker)[1]
               
               # Construct the new file content with italics
-              updated_text = f"{before}{start_marker}\n\n*{picked}*\n\n{end_marker}{after}"
+              updated_text = f"{before}{start_marker}\n\n{picked}\n\n{end_marker}{after}"
               
               with open('README.md', 'w', encoding='utf-8') as f:
                   f.write(updated_text)
