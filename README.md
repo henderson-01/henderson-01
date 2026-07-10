@@ -32,6 +32,9 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 ## 💬 Quote of the Day
 
 <!-- QUOTE:START -->
+
+> "Docker: Because friends don't let friends suffer dependency hell."
+
 <!-- QUOTE:END -->
 
 ---
