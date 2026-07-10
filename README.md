@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-> "Docker: Because friends don't let friends suffer dependency hell."
+*In Bash, everything is a string until it breaks your production environment. – Anonymous*
 
 <!-- QUOTE:END -->
 
