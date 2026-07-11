@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Beautiful is better than ugly. – The Zen of Python
+A true Bash master never uses the mouse.
 
 <!-- QUOTE:END -->
 
