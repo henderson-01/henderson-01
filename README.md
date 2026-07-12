@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-A true Bash master never uses the mouse.
+Simple is better than complex. – The Zen of Python
 
 <!-- QUOTE:END -->
 
