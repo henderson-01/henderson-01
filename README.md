@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Simple is better than complex. – The Zen of Python
+Docker: Because friends don't let friends suffer dependency hell. – Mr. Bot
 
 <!-- QUOTE:END -->
 
