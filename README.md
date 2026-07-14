@@ -39,11 +39,6 @@ Safari is just a Chrome downloader. – Mr. Bot
 
 ---
 
-[![GitHub Community Discussions](https://img.shields.io/badge/GitHub-Community_Discussions-181717?logo=shieldsdotio&logoColor=white&style=for-the-badge)](https://github.com/orgs/community/discussions)<br>
-*Join the conversation, ask questions, and share ideas with the global GitHub community.*
-
----
-
 ## 🤝 Community Guidelines
 I am currently on a **learning journey** and am always open to constructive feedback! To keep this space productive and friendly, I ask that all interactions follow these principles:
 
@@ -54,3 +49,8 @@ I am currently on a **learning journey** and am always open to constructive feed
 - **No Harassment:** Harassment, gatekeeping, or disparaging language will not be tolerated.
 
 *Let's keep the community encouraging for everyone!*
+
+---
+
+[![GitHub Community Discussions](https://img.shields.io/badge/GitHub-Community_Discussions-181717?logo=shieldsdotio&logoColor=white&style=for-the-badge)](https://github.com/orgs/community/discussions)<br>
+*Join the conversation, ask questions, and share ideas with the global GitHub community.*
