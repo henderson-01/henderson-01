@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Safari is just a Chrome downloader. – Mr. Bot
+echo $PATH ... Wait, where am I? – Mr. Bot
 
 <!-- QUOTE:END -->
 
