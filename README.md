@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-echo $PATH ... Wait, where am I? – Mr. Bot
+chmod 777: The universal solution to all permission problems, and the start of all security breaches.
 
 <!-- QUOTE:END -->
 
