@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-chmod 777: The universal solution to all permission problems, and the start of all security breaches.
+Dockerizing a bad application just makes it a bad application in a box.
 
 <!-- QUOTE:END -->
 
