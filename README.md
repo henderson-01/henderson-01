@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Dockerizing a bad application just makes it a bad application in a box.
+List comprehensions are magic until you have to read someone else's. – Mr. Bot
 
 <!-- QUOTE:END -->
 
