@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-List comprehensions are magic until you have to read someone else's. – Mr. Bot
+Resolving dependencies... done in 0.013s. – The magic of uv
 
 <!-- QUOTE:END -->
 
