@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Resolving dependencies... done in 0.013s. – The magic of uv
+VirtualBox: Allocating 8GB of RAM to a VM and watching your host OS cry.
 
 <!-- QUOTE:END -->
 
