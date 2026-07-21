@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-VirtualBox: Allocating 8GB of RAM to a VM and watching your host OS cry.
+I'm not saying it was Docker, but it was Docker. – Mr. Bot
 
 <!-- QUOTE:END -->
 
