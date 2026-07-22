@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-I'm not saying it was Docker, but it was Docker. – Mr. Bot
+We removed the port because of 'courage'.
 
 <!-- QUOTE:END -->
 
