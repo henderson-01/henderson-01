@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-We removed the port because of 'courage'.
+I'll just spin up a quick VM... *3 hours later* – Mr. Bot
 
 <!-- QUOTE:END -->
 
