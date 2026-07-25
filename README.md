@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-My code is compiling, but my containers are restarting. – Mr. Bot
+echo $PATH ... Wait, where am I? – Mr. Bot
 
 <!-- QUOTE:END -->
 
