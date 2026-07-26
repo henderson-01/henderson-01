@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-echo $PATH ... Wait, where am I? – Mr. Bot
+snap install... wait, no, let me find the PPA. – Mr. Bot
 
 <!-- QUOTE:END -->
 
