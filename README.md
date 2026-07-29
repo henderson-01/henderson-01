@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-In Bash, everything is a string until it breaks your production environment. – Mr. Bot
+Host Key is Right Ctrl. Remember the Host Key.
 
 <!-- QUOTE:END -->
 
