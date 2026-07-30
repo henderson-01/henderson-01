@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Host Key is Right Ctrl. Remember the Host Key.
+Snapshots are not backups. But we use them like they are anyway. – Mr. Bot
 
 <!-- QUOTE:END -->
 
