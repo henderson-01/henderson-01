@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Snapshots are not backups. But we use them like they are anyway. – Mr. Bot
+Have you tried turning it off and on again? Oh wait, this is Linux. Just restart the daemon. – Mr. Bot
 
 <!-- QUOTE:END -->
 
