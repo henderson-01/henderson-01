@@ -33,7 +33,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Have you tried turning it off and on again? Oh wait, this is Linux. Just restart the daemon. – Mr. Bot
+apt-get install coffee – Mr. Bot
 
 <!-- QUOTE:END -->
 
