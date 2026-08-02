@@ -2,7 +2,7 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-24292E?style=for-the-badge&logo=ollama&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?style=for-the-badge&logo=lmstudio&logoColor=white) ![uv & uvx](https://img.shields.io/badge/Using%20uv%20%26%20uvx-DE5FE9?style=for-the-badge&logo=astral&logoColor=white) ![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Git](https://img.shields.io/badge/Using%20Git-D4AC0D?style=for-the-badge&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Qwen 3.6-27B](https://img.shields.io/badge/-Qwen%203.6--27B-615EFF?style=for-the-badge&logo=qwen&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-6F42C1?style=for-the-badge&logo=square&logoColor=white)
 
-🚀 **Student Developer**: Self-directed learning `Python`, building projects and documenting my learning journey as I go.
+🚀 **Student Developer**: Learning `Python` Self-directed, building projects and documenting my learning journey as I go.
 
 ---
 
