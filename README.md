@@ -2,30 +2,21 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-24292E?style=for-the-badge&logo=ollama&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?style=for-the-badge&logo=lmstudio&logoColor=white) ![uv & uvx](https://img.shields.io/badge/Using%20uv%20%26%20uvx-DE5FE9?style=for-the-badge&logo=astral&logoColor=white) ![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Git](https://img.shields.io/badge/Using%20Git-D4AC0D?style=for-the-badge&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Qwen 3.6-27B](https://img.shields.io/badge/-Qwen%203.6--27B-615EFF?style=for-the-badge&logo=qwen&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-6F42C1?style=for-the-badge&logo=square&logoColor=white)
 
-🚀 **Student Developer**: Self-directed learner, building projects and documenting my learning journey as I go.
-
----
-
-## 💻 My Setup & Background
-
-* **OS:** **`Mac`** and transitioned from **`Windows`** to **`Ubuntu`** (loving the Linux workflow!).
-* **Language:** Currently mastering **`Python`** and computer programming fundamentals.
-* **Scripting:** Getting comfortable with **`Bash`** scripting to automate tasks and level up my command-line skills.
-* **Git:** Mastering **`version control`** locally and syncing my progress here.
+🚀 **Student Developer**: Self-directed `Python learner`, building projects and documenting my learning journey as I go.
 
 ---
 
 ## 🧠 My Learning Philosophy & AI
 
-I’m a firm believer in using modern tools to solve timeless problems. As I navigate the stages of my Python and Bash journey, I don't shy away from using **Artificial Intelligence** to deconstruct complex logic or debug tricky errors. It’s like having a digital mentor available 24/7. 
+I’m a firm believer in using modern tools to solve timeless problems. As I navigate the stages of my **Python** and **Bash** learning journey, I don't shy away from using **Artificial Intelligence** to deconstruct complex logic or debug tricky errors. It’s like having a digital mentor available 24/7. 
 
-I find the most value in **functional scripts** that serve a clear, immediate purpose. I’m focused on writing code that is readable, purposeful, and practical.
+I find the most value in **functional scripts** that serve a clear, immediate purpose. I’m focused on trying to write code that is readable, purposeful, and practical.
 
 ---
 
 ## 📝 Documentation & Help Guides
 
-I enjoy making **Markdown Documents!** I find that breaking down difficult concepts into simple, scannable guides is the best way to learn. Expect to see various **Cheat sheets** & **Help guides** repositories here as I find new ways to simplify coding and application tasks.
+I enjoy making **Markdown Documents!** I find that breaking down difficult concepts into simple, scannable guides is the best way to learn. Expect to see various **Cheat sheets** & **Help guides** repositories here as I find new ways to simplify application tasks.
   
 ---
 
