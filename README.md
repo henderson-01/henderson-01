@@ -24,7 +24,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-echo $PATH ... Wait, where am I? – Mr. Bot
+I'll just spin up a quick VM... *3 hours later* – Mr. Bot
 
 <!-- QUOTE:END -->
 
