@@ -24,7 +24,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-I'll just spin up a quick VM... *3 hours later* – Mr. Bot
+Containers are just chroot with a marketing budget. – Kelsey Hightower
 
 <!-- QUOTE:END -->
 
