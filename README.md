@@ -6,6 +6,12 @@
 
 ---
 
+### 💻 Current Focus
+* 🐍 **Core Languages:** Building strong foundational skills by learning to write manual code in **Python** and also some **Bash** along the way.
+* ✨ **Vibe Coding:** Actively adapting to the AI-assisted coding landscape. I'm learning how to orchestrate and iterate with AI tools, recognising that intent-driven development is now a fundamental part of the modern software workplace.
+
+---
+
 ## 🧠 My Learning Philosophy & AI
 
 I’m a firm believer in using modern tools to solve timeless problems. As I navigate the stages of my **Python** and **Bash** learning journey, I don't shy away from using **Artificial Intelligence** to deconstruct complex logic or debug tricky errors. It’s like having a digital mentor available 24/7. 
