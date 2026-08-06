@@ -24,7 +24,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Containers are just chroot with a marketing budget. – Kelsey Hightower
+Readability counts. – The Zen of Python
 
 <!-- QUOTE:END -->
 
