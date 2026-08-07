@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Readability counts. – The Zen of Python
+I'll just spin up a quick VM... *3 hours later* – Mr. Bot
 
 <!-- QUOTE:END -->
 
