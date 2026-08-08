@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-I'll just spin up a quick VM... *3 hours later* – Mr. Bot
+Why write a Python script when you can pipe 12 commands together in Bash? – Mr. Bot
 
 <!-- QUOTE:END -->
 
