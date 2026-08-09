@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Why write a Python script when you can pipe 12 commands together in Bash? – Mr. Bot
+Activity Monitor: Watching WindowServer consume 99% of your CPU since 2001.
 
 <!-- QUOTE:END -->
 
