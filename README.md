@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Activity Monitor: Watching WindowServer consume 99% of your CPU since 2001.
+I use Arch, by the way. (But we are running Ubuntu today) – Mr. Bot
 
 <!-- QUOTE:END -->
 
