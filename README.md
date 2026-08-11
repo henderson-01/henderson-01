@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-I use Arch, by the way. (But we are running Ubuntu today) – Mr. Bot
+Why write a Python script when you can pipe 12 commands together in Bash? – Mr. Bot
 
 <!-- QUOTE:END -->
 
