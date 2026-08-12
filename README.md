@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Why write a Python script when you can pipe 12 commands together in Bash? – Mr. Bot
+Talk is cheap. Show me the code. – Linus Torvalds
 
 <!-- QUOTE:END -->
 
