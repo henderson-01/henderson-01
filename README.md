@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Have you tried resetting the NVRAM? – Mr. Bot
+Talk is cheap. Show me the code. – Linus Torvalds
 
 <!-- QUOTE:END -->
 
