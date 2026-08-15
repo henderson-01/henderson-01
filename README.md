@@ -49,5 +49,5 @@ I am currently on a **learning journey** and am always open to constructive feed
 
 ---
 
-[![GitHub Community Discussions](https://img.shields.io/badge/GitHub-Community_Discussions-181717?logo=shieldsdotio&logoColor=white&style=for-the-badge)](https://github.com/orgs/community/discussions)<br>
+[![GitHub Community Discussions](https://img.shields.io/badge/GitHub-Community_Discussions-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/orgs/community/discussions/categories/open-source)<br>
 *Join the conversation, ask questions, and share ideas with the global GitHub community.*
