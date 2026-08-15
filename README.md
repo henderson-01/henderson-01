@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Talk is cheap. Show me the code. – Linus Torvalds
+It runs seamlessly! *Fans immediately spin up to 5000 RPM* – Mr. Bot
 
 <!-- QUOTE:END -->
 
