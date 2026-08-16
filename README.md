@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-It runs seamlessly! *Fans immediately spin up to 5000 RPM* – Mr. Bot
+Have you tried turning it off and on again? Oh wait, this is Linux. Just restart the daemon. – Mr. Bot
 
 <!-- QUOTE:END -->
 
