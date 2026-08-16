@@ -49,5 +49,5 @@ I am currently on a **learning journey** and am always open to constructive feed
 
 ---
 
-[![Python Good First Issues](https://img.shields.io/badge/Python-Good_First_Issues-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+language%3APython+no%3Aassignee&type=issues)<br>
-*Find unassigned, beginner-friendly Python issues ready to work on.*
+[![GitHub Help Wanted](https://img.shields.io/badge/GitHub-Help_Wanted-181717?logo=github&logoColor=white&style=for-the-badge)](https://github-help-wanted.com/)<br>
+*Find unassigned, beginner-friendly open-source issues ready to work on.*
