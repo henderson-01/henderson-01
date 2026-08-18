@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Target Disk Mode saved my life.
+Global Interpreter Lock: The feature everyone loves to hate.
 
 <!-- QUOTE:END -->
 
