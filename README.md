@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Global Interpreter Lock: The feature everyone loves to hate.
+Guest Additions installed successfully. *Screen resolution still 800x600*
 
 <!-- QUOTE:END -->
 
