@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Guest Additions installed successfully. *Screen resolution still 800x600*
+Wait, did I give the VM the bridged adapter or NAT? – Mr. Bot
 
 <!-- QUOTE:END -->
 
