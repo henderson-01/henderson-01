@@ -7,7 +7,7 @@
 ---
 
 ### 💻 Current Focus
-* 🐍 **Core Languages:** Building strong foundational skills in **Python** and also some **Bash** scripting along the way.
+* 🐍 **Core Languages:** Building strong foundational skills in **Python** and also some **Bash** scripting.
 * ✨ **Vibe Coding:** Actively adapting to the AI-assisted coding landscape. I'm learning how to orchestrate and iterate with AI tools, recognising that intent-driven development is now a fundamental part of the modern software workplace.
 
 ---
