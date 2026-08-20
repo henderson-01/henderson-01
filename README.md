@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 My Learning Philosophy & AI
+## 🧠 My Philosophy & AI
 
 I’m a firm believer in using modern tools to solve timeless problems. As I navigate the stages of my **Python** and **Bash** journey, I don't shy away from using **Artificial Intelligence** to deconstruct complex logic or debug tricky errors. It’s like having a digital mentor available 24/7. 
 
