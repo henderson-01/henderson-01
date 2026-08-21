@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Wait, did I give the VM the bridged adapter or NAT? – Mr. Bot
+Errors should never pass silently. Unless explicitly silenced. – The Zen of Python
 
 <!-- QUOTE:END -->
 
