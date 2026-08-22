@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Errors should never pass silently. Unless explicitly silenced. – The Zen of Python
+snap install... wait, no, let me find the PPA. – Mr. Bot
 
 <!-- QUOTE:END -->
 
