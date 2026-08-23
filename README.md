@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-snap install... wait, no, let me find the PPA. – Mr. Bot
+Exit Vim? Why would I want to do that?
 
 <!-- QUOTE:END -->
 
