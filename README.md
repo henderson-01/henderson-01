@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Exit Vim? Why would I want to do that?
+But it works on my machine! – The official Docker origin story
 
 <!-- QUOTE:END -->
 
