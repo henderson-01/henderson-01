@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-But it works on my machine! – The official Docker origin story
+Guru Meditation. Press OK to reboot your existential crisis. – VirtualBox errors
 
 <!-- QUOTE:END -->
 
