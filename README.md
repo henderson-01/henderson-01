@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Guru Meditation. Press OK to reboot your existential crisis. – VirtualBox errors
+VirtualBox: Making sure your host machine has exactly 0 bytes of free space.
 
 <!-- QUOTE:END -->
 
