@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-IndentationError: expected an indented block. – The soundtrack of my life.
+Guru Meditation. Press OK to reboot your existential crisis. – VirtualBox errors
 
 <!-- QUOTE:END -->
 
