@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-Guru Meditation. Press OK to reboot your existential crisis. – VirtualBox errors
+I'll just spin up a quick VM... *3 hours later* – Mr. Bot
 
 <!-- QUOTE:END -->
 
