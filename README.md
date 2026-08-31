@@ -1,53 +1,54 @@
-# 🪐 Welcome...
+<div align="center">
+  <h1>🪐 Hello there! Welcome</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A7CA5&center=true&vCenter=true&width=435&lines=Junior+Developer;Python+%26+Bash+Enthusiast;AI-Assisted+Vibe+Coder" alt="Typing SVG" />
+</div>
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-24292E?style=for-the-badge&logo=ollama&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?style=for-the-badge&logo=lmstudio&logoColor=white) ![uv & uvx](https://img.shields.io/badge/Using%20uv%20%26%20uvx-DE5FE9?style=for-the-badge&logo=astral&logoColor=white) ![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Git](https://img.shields.io/badge/Using%20Git-D4AC0D?style=for-the-badge&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Qwen 3.6-35B-A3B](https://img.shields.io/badge/-Qwen%203.6--35B--A3B-615EFF?style=for-the-badge&logo=qwen&logoColor=white) ![Gemma 4-26B-A4B-QAT](https://img.shields.io/badge/-gemma--4--26b--a4b--qat-4285F4?style=for-the-badge&logo=google&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-6F42C1?style=for-the-badge&logo=square&logoColor=white) ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-34A853?style=for-the-badge&logo=googlegemini&logoColor=white) [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?style=for-the-badge&logo=coderabbit&logoColor=white)](https://coderabbit.ai)
-
-🚀 **Junior Developer**: Self-directed, Building projects and documenting my journey as I go. <img src="https://img.shields.io/github/stars/henderson-01?style=flat-square&label=Total%20Stars&color=3A7CA5&labelColor=1E1E1E&logo=github&logoColor=white" alt="Total Stars" align="absmiddle" />
-
----
-
-### 💻 Current Focus
-* 🐍 **Core Languages:** Building strong foundational skills in **Python** and also some **Bash** scripting.
-* ✨ **Vibe Coding:** Actively adapting to the AI-assisted coding landscape. I'm learning how to orchestrate and iterate with AI tools, recognising that intent-driven development is now a fundamental part of the modern software workplace.
+<p align="center">
+  <i>Self-directed Dev, documenting the journey and solving timeless problems with modern tools.</i><br>
+  <img src="https://img.shields.io/github/stars/henderson-01?style=flat-square&label=Total%20Stars&color=3A7CA5&labelColor=1E1E1E&logo=github&logoColor=white" alt="Total Stars" />
+</p>
 
 ---
 
-## 🧠 My Philosophy & AI
+<div align="center">
 
-I’m a firm believer in using modern tools to solve timeless problems. As I navigate the stages of my **Python** and **Bash** journey, I don't shy away from using **Artificial Intelligence** to deconstruct complex logic or debug tricky errors. It’s like having a digital mentor available 24/7. 
+### 🛠️ Tech Stack & Tools
 
-I find the most value in **functional scripts** that serve a clear, immediate purpose. I’m focused on trying to write code that is readable, purposeful, and practical.
+**Languages & IDEs** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) 
+
+**AI & Vibe Coding** <br>
+![Ollama](https://img.shields.io/badge/-Ollama-24292E?style=flat-square&logo=ollama&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?style=flat-square&logo=lmstudio&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen_3.6-615EFF?style=flat-square&logo=qwen&logoColor=white) ![Gemma](https://img.shields.io/badge/Gemma_4-4285F4?style=flat-square&logo=google&logoColor=white) [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?style=flat-square&logo=coderabbit&logoColor=white)](https://coderabbit.ai)
+
+**Environment & DevOps** <br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-D4AC0D?style=flat-square&logo=git&logoColor=white) ![uv & uvx](https://img.shields.io/badge/uv_%26_uvx-DE5FE9?style=flat-square&logo=astral&logoColor=white)
+
+</div>
 
 ---
 
-## 📝 Documentation & Help Guides
+<div align="center">
 
-I enjoy making **Markdown Documents!** I find that breaking down difficult concepts into simple, scannable guides is the best way to learn. Expect to see various **Cheat sheets** & **Help guides** repositories here as I find new ways to simplify application tasks.
+### 🚀 Current Focus & Philosophy
+
+</div>
+
+- 🐍 **Building Foundations:** Honing core logic through **Python** and **Bash** scripting to create functional, practical applications.
+- ✨ **Vibe Coding:** Embracing intent-driven development. I orchestrate and iterate with AI tools (my 24/7 digital mentors) to deconstruct complex logic and debug tricky errors.
+- 📝 **Documentation:** Breaking down difficult concepts into simple, scannable guides. Check out my repositories for Markdown cheat sheets and help guides!
+- 🤝 **Community:** I value growth, respect, and constructive feedback. I'm always open to tips on how to improve my code.
+
+---
+
+<div align="center">
+  <!-- QUOTE:START -->
+  <i>"The best thing about Linux is that it doesn't try to hide the complexity. The worst thing is also that."</i>
+  <!-- QUOTE:END -->
+  <br><br>
   
----
-
-## 💬 Quote of the Day
-
-<!-- QUOTE:START -->
-
-The best thing about Linux is that it doesn't try to hide the complexity. The worst thing is also that.
-
-<!-- QUOTE:END -->
-
----
-
-## 🤝 Community Guidelines
-As a **Junior Developer** and am always open to constructive feedback! To keep this space productive and friendly, I ask that all interactions follow these principles:
-
-- **Be Kind and Respectful:** Please keep feedback professional.
-
-- **Focus on Growth:** I value learning, so feel free to share tips or resources if you spot a way I can improve my code.
-
-- **No Harassment:** Harassment, gatekeeping, or disparaging language will not be tolerated.
-
-*Let's keep the community encouraging for everyone!*
-
----
-
-[![GitHub Help Wanted](https://img.shields.io/badge/GitHub-Help_Wanted-181717?logo=github&logoColor=white&style=for-the-badge)](https://github-help-wanted.com/)<br>
-*Find unassigned, beginner-friendly open-source issues ready to work on.*
+  <a href="https://github-help-wanted.com/">
+    <img src="https://img.shields.io/badge/GitHub-Help_Wanted-181717?logo=github&logoColor=white&style=flat-square" alt="Help Wanted">
+  </a>
+  <br>
+  <sup>Find unassigned, beginner-friendly open-source issues ready to work on.</sup>
+</div>
