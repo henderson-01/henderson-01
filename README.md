@@ -30,7 +30,7 @@ I enjoy making **Markdown Documents!** I find that breaking down difficult conce
 
 <!-- QUOTE:START -->
 
-echo $PATH ... Wait, where am I? – Mr. Bot
+The best thing about Linux is that it doesn't try to hide the complexity. The worst thing is also that.
 
 <!-- QUOTE:END -->
 
