@@ -42,8 +42,10 @@
 
 <div align="center">
   <!-- QUOTE:START -->
-  <i>"The best thing about Linux is that it doesn't try to hide the complexity. The worst thing is also that."</i>
-  <!-- QUOTE:END -->
+
+In Linux, there are no limits. Only configuration files you haven't found yet.
+
+<!-- QUOTE:END -->
   <br><br>
   
   <a href="https://github-help-wanted.com/">
