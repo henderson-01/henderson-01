@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <i>On a continuous Python journey studying the fundamentals, building personal projects with AI assistance, and looking for small projects to make my first contributions.</i><br>
+  <i>On a continuous Python journey studying the fundamentals, building personal projects.</i><br>
   <img src="https://img.shields.io/github/stars/henderson-01?style=flat-square&label=Total%20Stars&color=3A7CA5&labelColor=1E1E1E&logo=github&logoColor=white" alt="Total Stars" />
 </p>
 
