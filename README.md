@@ -42,9 +42,7 @@
 
 <div align="center">
   <!-- QUOTE:START -->
-
 In Linux, there are no limits. Only configuration files you haven't found yet.
-
 <!-- QUOTE:END -->
   <br><br>
   
