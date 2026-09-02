@@ -50,7 +50,9 @@
   
 <div align="center">
   <!-- QUOTE:START -->
-In Linux, there are no limits. Only configuration files you haven't found yet.
+
+My code is compiling, but my containers are restarting. – Mr. Bot
+
 <!-- QUOTE:END -->
   <br><br>
 
