@@ -51,7 +51,7 @@
 <div align="center">
   <!-- QUOTE:START -->
 
-My code is compiling, but my containers are restarting. – Mr. Bot
+Simple is better than complex. – The Zen of Python
 
 <!-- QUOTE:END -->
   <br><br>
