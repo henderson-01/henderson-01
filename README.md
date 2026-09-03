@@ -43,20 +43,6 @@
 </dev>
 
 <div align="center">
-  
-### 📝 Daily - Quote!
-
-</dev>
-  
-<div align="center">
-  <!-- QUOTE:START -->
-
-Simple is better than complex. – The Zen of Python
-
-<!-- QUOTE:END -->
-  <br><br>
-
-<hr style="border: none; height: 1px; background: #30363d; margin: 24px 0;">
 
   <a href="https://github-help-wanted.com/">
     <img src="https://img.shields.io/badge/GitHub-Help_Wanted-181717?logo=github&logoColor=white&style=flat-square" alt="Help Wanted">
