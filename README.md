@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🪐 Hello there! Welcome</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A7CA5&center=true&vCenter=true&width=435&lines=Junior+Developer;Python+%26+Bash+Enthusiast;AI-Assisted+Vibe+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A7CA5&center=true&vCenter=true&width=435&lines=Junior+Developer;Python+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
