@@ -15,10 +15,10 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & IDEs** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonar&logoColor=white)
 
 **AI & Vibe Coding** <br>
-![Ollama](https://img.shields.io/badge/-Ollama-24292E?style=flat-square&logo=ollama&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?style=flat-square&logo=lmstudio&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-181818?style=flat-square&logo=square&logoColor=white) [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?style=flat-square&logo=coderabbit&logoColor=white)](https://coderabbit.ai)
+![Ollama](https://img.shields.io/badge/-Ollama-24292E?style=flat-square&logo=ollama&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?style=flat-square&logo=lmstudio&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-181818?style=flat-square&logo=square&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?style=flat-square&logo=coderabbit&logoColor=white)](https://coderabbit.ai)
 
 **Environment & DevOps** <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-2496ED?style=flat-square&logo=docker&logoColor=white) ![Using Git](https://img.shields.io/badge/Using%20Git-D4AC0D?style=flat-square&logo=git&logoColor=white) ![UV & UVX](https://img.shields.io/badge/UV%20%26%20UVX-DE5FE9?style=flat-square&logo=astral&logoColor=white) ![Astral Ruff](https://img.shields.io/badge/Astral_Ruff-151515?style=flat-square&logo=astral&logoColor=white)
