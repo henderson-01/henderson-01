@@ -15,13 +15,13 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & IDEs** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonar&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 **AI & Vibe Coding** <br>
 ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?logo=lmstudio&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-181818?logo=square&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff) ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?logo=coderabbit&logoColor=white)
 
 **Environment & DevOps** <br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![uv](https://img.shields.io/badge/uv-261230?logo=uv&logoColor=de5fe9) ![Ruff](https://custom-icon-badges.demolab.com/badge/Ruff-261230.svg?logo=ruff-logo) ![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000) ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![uv](https://img.shields.io/badge/uv-261230?logo=uv&logoColor=de5fe9) ![Ruff](https://custom-icon-badges.demolab.com/badge/Ruff-261230.svg?logo=ruff-logo) ![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonar&logoColor=white) ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)
 
 </div>
 
