@@ -15,13 +15,13 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & IDEs** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonar&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonar&logoColor=white)
 
 **AI & Vibe Coding** <br>
-![Ollama](https://img.shields.io/badge/-Ollama-24292E?style=flat-square&logo=ollama&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?style=flat-square&logo=lmstudio&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-181818?style=flat-square&logo=square&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) [![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?style=flat-square&logo=coderabbit&logoColor=white)](https://coderabbit.ai)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000) ![LM Studio](https://img.shields.io/badge/LM%20Studio-6F42C1?logo=lmstudio&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-181818?logo=square&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff) ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?logo=coderabbit&logoColor=white)
 
 **Environment & DevOps** <br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-2496ED?style=flat-square&logo=docker&logoColor=white) ![Using Git](https://img.shields.io/badge/Using%20Git-D4AC0D?style=flat-square&logo=git&logoColor=white) ![UV & UVX](https://img.shields.io/badge/UV%20%26%20UVX-DE5FE9?style=flat-square&logo=astral&logoColor=white) ![Astral Ruff](https://img.shields.io/badge/Astral_Ruff-151515?style=flat-square&logo=astral&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![uv](https://img.shields.io/badge/uv-261230?logo=uv&logoColor=de5fe9) ![Ruff](https://custom-icon-badges.demolab.com/badge/Ruff-261230.svg?logo=ruff-logo) ![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000) ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)
 
 </div>
 
